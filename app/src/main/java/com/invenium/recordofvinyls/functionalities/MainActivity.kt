@@ -1,7 +1,8 @@
-package com.invenium.recordofvinyls
+package com.invenium.recordofvinyls.functionalities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.invenium.recordofvinyls.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
